@@ -25,7 +25,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="nav nav-pills ms-auto">
             <li class="nav-item"><a class="nav-link" aria-current="page" href="../../index.php" style="color: orange">Beranda</a></li>
-            <li class="nav-item"><a class="nav-link" href="Pemesanan/pemesanan.php" style="color: orange">Pemesanan</a></li>
+            <li class="nav-item"><a class="nav-link" href="../Pemesanan/pemesanan.php" style="color: orange">Pemesanan</a></li>
             <li class="nav-item"><a class="nav-link" href="#" style="color: orange">Destinasi</a></li>
             <li class="nav-item"><a class="nav-link" href="#" style="color: orange">Contact</a></li>
             <li class="nav-item"><a class="nav-link active" href="#">Daftar Pemesanan</a></li>
