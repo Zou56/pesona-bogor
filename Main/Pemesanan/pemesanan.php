@@ -29,6 +29,7 @@
             <li class="nav-item"><a class="nav-link" href="#" style="color: orange">Destinasi</a></li>
 
             <li class="nav-item"><a class="nav-link" href="#" style="color: orange">Contact</a></li>
+			<li class="nav-item"><a class="nav-link" href="../Daftar/daftar.php" style="color: orange">Daftar Pemesanan</a></li>
         </ul>
         </div>
     </div>
