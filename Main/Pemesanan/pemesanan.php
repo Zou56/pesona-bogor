@@ -24,7 +24,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="nav nav-pills ms-auto">
-            <li class="nav-item"><a class="nav-link" aria-current="page" href="../index.php" style="color: orange">Beranda</a></li>
+            <li class="nav-item"><a class="nav-link" aria-current="page" href="../../index.php" style="color: orange">Beranda</a></li>
             <li class="nav-item"><a class="nav-link active" href="Pemesanan/pemesanan.php">Pemesanan</a></li>
             <li class="nav-item"><a class="nav-link" href="#" style="color: orange">Destinasi</a></li>
 
