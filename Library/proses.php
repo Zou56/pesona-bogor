@@ -28,7 +28,7 @@ if(isset($_POST['nama_pemesanan'])){
 	
 	$sql = "INSERT INTO pemesanan (nama_pemesanan, hp_pemesan, waktu_wisata, hari_wisata, jumlah_peserta, total_tagihan, paket_inap, paket_transport, paket_makan) value ('$nama_pemesanan','$hp_pemesan','$waktu_wisata','$hari_wisata','$jumlah_peserta','$total_tagihan','$paket_inap','$paket_transport','$paket_makan')";
 	$query = mysqli_query($db,$sql);
-	if($query) echo 1; else echo 0;
+	if($query) header('Location: ../Main/Daftar/daftar.php '); else echo 0;
 }else{
     //muncul pesan error
     echo 'Ngapain?';
