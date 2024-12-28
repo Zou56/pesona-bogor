@@ -311,25 +311,25 @@
     <div class="col-md-9">
      <div class="row">
       <div class="col-md-4 mb-4">
-       <img alt="Group of people sitting by the pool with mountains in the background" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Group of people sitting by the pool with mountains in the background" class="gallery-img" height="200" src="Assets/Image/Fotbar Kolam.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
-       <img alt="Person standing by the pool with trees in the background" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Person standing by the pool with trees in the background" class="gallery-img" height="200" src="Assets/Image/Foto Cuya.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
-       <img alt="Group of people standing on a grassy field with trees in the background" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Group of people standing on a grassy field with trees in the background" class="gallery-img" height="200" src="Assets/Image/Fotbar Rame.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
-       <img alt="Living room with sofas and a large window" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Living room with sofas and a large window" class="gallery-img" height="200" src="Assets/Image/Foto Halaman.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
-       <img alt="Outdoor area with a pool and a gazebo" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Outdoor area with a pool and a gazebo" class="gallery-img" height="200" src="Assets/Image/Foto R.Makan.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
        <img alt="Driveway with a car and plants on the side" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
       </div>
       <div class="col-md-4 mb-4">
-       <img alt="Outdoor area with a pool table and a pool" class="gallery-img" height="200" src="Assets/Image/Kolam BL.jpg" width="300"/>
+       <img alt="Outdoor area with a pool table and a pool" class="gallery-img" height="200" src="Assets/Image/Foto BL.jpg" width="300"/>
       </div>
      </div>
      <div class="text-center">
